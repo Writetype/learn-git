@@ -7,4 +7,4 @@
 * Push: Sending your work to the github version of the repository
 * Repository: A folder
 
-I have successfully cloned this to my work compmuter.
+I have successfully cloned this to my work computer.
